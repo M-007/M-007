@@ -4,9 +4,15 @@ I am <strong>jobseeker</strong> look for <strong>Software Developer roles</stron
 My fields of interest are <strong>Web Development</strong> and <strong>Machine Learning</strong>.
 <hr>
 
+<div>
+<a href="https://www.linkedin.com/in/manthanjoshi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ManthanJoshi" height="30" width="40" /></a>
+</div>
+<br>
+<br>
 <strong><enum>Technologies and Tools</enum></strong>
-
-
+<br>
+<hr>
+<br>
  <div id="image_of_technologies">
  <strong>C++</strong>
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -16,3 +22,4 @@ My fields of interest are <strong>Web Development</strong> and <strong>Machine L
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 </div>
+
