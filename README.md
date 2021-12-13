@@ -1,7 +1,7 @@
 # Hello, folks! My name is Manthan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am <strong>jobseeker</strong> look for new opportunities in <strong>Software Developer roles</strong>.
-My fields of interest are <strong>Web Development</strong> and <strong>Machine Learning</strong>.
+I am good at <strong>Problem Solving</strong>.
 <hr>
 
 <div>
